@@ -1,10 +1,6 @@
-﻿using Microsoft.AspNetCore.Http.HttpResults;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using NZWalks.API.Data;
 using NZWalks.API.Domain;
-using NZWalks.API.DTO;
-using System.Runtime.InteropServices;
-using System.Text.RegularExpressions;
 
 namespace NZWalks.API.Repositories
 {

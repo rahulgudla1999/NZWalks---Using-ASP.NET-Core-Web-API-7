@@ -1,5 +1,4 @@
 ﻿using NZWalks.API.Domain;
-using NZWalks.API.DTO;
 
 namespace NZWalks.API.Repositories
 {
